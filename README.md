@@ -24,10 +24,10 @@ An internal demo prototype built by a team of six to streamline **deadline exten
 
 ## 📸 Screenshots
 - **Deadline Extension Form**  
-  ![Deadline Extension Form](screenshots/application.png)
+  ![Deadline Extension Form](Screenshots/Application.png)
 
 - **Issue Comment / Dashboard View**  
-  ![Issue Comment / Dashboard View](screenshots/issuecomment.png)
+  ![Issue Comment / Dashboard View](Screenshots/IssueComment.png)
 
 ---
 
